@@ -10,7 +10,7 @@
  ### Steps 2:
  Use basic Linux commands to navigate and manage files.
  ### Steps 3:
- Create a Bash script using Mousepad.
+ Create a Bash script.
  ### Steps 4:
  Write a script that performs arithmetic operations and reads a file.
  ### Steps 5:
